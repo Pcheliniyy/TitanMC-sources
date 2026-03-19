@@ -1,0 +1,9 @@
+build/
+server/
+.gradle/
+.idea/
+*.iml
+out/
+cache/
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
